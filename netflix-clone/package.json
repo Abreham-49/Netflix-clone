@@ -1,5 +1,5 @@
 {
-  "homepage": "https://Abreham-49.github.io/netflix-clone/",
+  "homepage": "https://Abreham-49.github.io/netflix-clone",
   "name": "netflix-clone",
   "version": "0.1.0",
   "private": true,
@@ -47,6 +47,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^6.3.0",
     "github-pages": "^3.0.2"
   }
 }
